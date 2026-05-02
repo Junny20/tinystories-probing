@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+spacy
+scikit-learn
+numpy
+matplotlib
+jupyter
+ipykernel
